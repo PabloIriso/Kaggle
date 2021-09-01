@@ -1,6 +1,6 @@
-# Kaggle
+# Kaggle Competitions
 
-Kaggle competitions
+
 
 Titanic
 
